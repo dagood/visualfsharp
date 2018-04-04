@@ -35,4 +35,4 @@
   <!-- dependency uptake version overrides -->
   <Import Project="$(DotNetPackageVersionPropsPath)" Condition="Exists('$(DotNetPackageVersionPropsPath)')" />
 
-</Proejct>
+</Project>
